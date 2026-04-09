@@ -1,4 +1,4 @@
-# # 📝 automatizateFormularioMaker
+# # 📝 automatizateFormularioLaboratorio
 
 Um robô desenvolvido em Python focado em economizar o seu tempo! Este script preenche automaticamente o **Registro de Atividades dos Professores Orientadores** (Google Forms), selecionando sua regional, escola e dados pessoais em segundos, pulando as páginas de forma autônoma.
 
